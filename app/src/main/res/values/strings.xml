@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Praktika15</string>
+    <string name="buton1">Перенести данные о животных</string>
+    <string name="tV1">Введите породу животного</string>
+    <string name="tV2">Введите год, месяц, дату рождения</string>
+    <string name="eT1">Например: Питбуль</string>
+    <string name="eT2">XXXX XX XX</string>
+</resources>
